@@ -1,6 +1,6 @@
 {
   "name": "datetime-converter-nodejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node package to convert date from and to ISO date format",
   "main": "index.js",
   "scripts": {
