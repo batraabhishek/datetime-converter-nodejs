@@ -1,10 +1,11 @@
 module.exports = {
 	isoString: function(date) {
 		if(date) {
+			date = new Date(date);
 			return date.toISOString();
 		}
 		else {
-			date = new Date(date);
+			date = new Date();
 			return date.toISOString();
 		}
 
