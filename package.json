@@ -1,7 +1,7 @@
 {
-  "name": "datetime-converter",
-  "version": "0.0.1",
-  "description": "A small library providing utility methods to convert between normal Date formats to ISO format",
+  "name": "datetime-converter-nodejs",
+  "version": "0.0.2",
+  "description": "Node package to convert date from and to ISO date format",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,11 @@
   "keywords": [
     "date",
     "time",
-    "iso"
+    "iso",
+    "convert",
+    "datetime",
+    "isodate",
+    "isoformat"
   ],
   "author": "Abhishek Batra <abhishekbatra1993@gmail.com> (https://github.com/batraabhishek/)",
   "license": "ISC",
