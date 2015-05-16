@@ -1,8 +1,8 @@
 module.exports = {
 	isoString: function(date) {
 		if(date) {
-			date = new Date(date);
-			return date.toISOString();
+			dDate = new Date(date);
+			return dDate.toISOString();
 		}
 		else {
 			date = new Date();
