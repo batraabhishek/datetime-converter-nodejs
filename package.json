@@ -1,0 +1,24 @@
+{
+  "name": "datetime-converter",
+  "version": "0.0.1",
+  "description": "A small library providing utility methods to convert between normal Date formats to ISO format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batraabhishek/datetime-converter-nodejs.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "iso"
+  ],
+  "author": "Abhishek Batra <abhishekbatra1993@gmail.com> (https://github.com/batraabhishek/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batraabhishek/datetime-converter-nodejs/issues"
+  },
+  "homepage": "https://github.com/batraabhishek/datetime-converter-nodejs#readme"
+}
