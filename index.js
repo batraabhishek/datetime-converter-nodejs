@@ -41,7 +41,7 @@ module.exports = {
 
 	timeDiff: function(time1, time2) {
 		var seconds1, seconds2;
-		if (time1) {
+		if (!time1) {
 			return 0;
 		} else {
 			if (time2) {
