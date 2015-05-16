@@ -54,6 +54,7 @@ module.exports = {
 
 			}
 		}
+		return (seconds1 - seconds2);
 
 	}
 }
